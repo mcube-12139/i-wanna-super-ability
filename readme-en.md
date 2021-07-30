@@ -28,9 +28,9 @@ I Wanna Framework: [IWBT GMS2 Engine YoYoYo Edition](delicious-fruit.com/ratings
 * Repository Release
 * [I Wanna Super Ability]() - MediaFire
 ## Credits
-* [逍遥散人](space.bilibili.com/168598)  
+* [逍遥散人](https://space.bilibili.com/168598)  
   A bilibilier. This game is inspired by him.
-* [盲人张卫2019](space.bilibili.com/471676923)  
+* [盲人张卫2019](https://space.bilibili.com/471676923)  
   A bilibilier.The author of 《听我说-洛天依》.
 * Myself.
 * And so on.

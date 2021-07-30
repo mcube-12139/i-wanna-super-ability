@@ -28,9 +28,9 @@ I Wanna框架：[IWBT GMS2 Engine YoYoYo Edition](delicious-fruit.com/ratings/ga
 * 仓库发布件
 * [I Wanna Super Ability]() - MediaFire
 ## 鸣谢
-* [逍遥散人](space.bilibili.com/168598)  
+* [逍遥散人](https://space.bilibili.com/168598)  
   bilibili up主。给了我创作灵感。
-* [盲人张卫2019](space.bilibili.com/471676923)  
+* [盲人张卫2019](https://space.bilibili.com/471676923)  
   bilibili up主。《听我说-洛天依》作者。
 * 我自己。
 * 等等。
