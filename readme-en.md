@@ -20,13 +20,13 @@ Controls:
 * `Esc` - Exit game
 
 Game Engine: GameMaker Studio 2.3.x  
-I Wanna Framework: [IWBT GMS2 Engine YoYoYo Edition](delicious-fruit.com/ratings/game_details.php?id=18583) - Delicious Fruit
+I Wanna Framework: [IWBT GMS2 Engine YoYoYo Edition](https://delicious-fruit.com/ratings/game_details.php?id=18583) - Delicious Fruit
 ## Preview
 ![](preview/0.png)
 ![](preview/1.png)
 ## Download
 * Repository Release
-* [I Wanna Super Ability]() - MediaFire
+* [I Wanna Super Ability](https://mcube-12139.lanzoui.com/izEc9s0rscf) - MediaFire
 ## Credits
 * [逍遥散人](https://space.bilibili.com/168598)  
   A bilibilier. This game is inspired by him.

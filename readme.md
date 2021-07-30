@@ -20,13 +20,13 @@ Kid从来没有停止过它的探险，在一次探险中，它意外获得了�
 * `Esc` - 结束游戏
 
 制作引擎：GameMaker Studio 2.3.x  
-I Wanna框架：[IWBT GMS2 Engine YoYoYo Edition](delicious-fruit.com/ratings/game_details.php?id=18583) - Delicious Fruit
+I Wanna框架：[IWBT GMS2 Engine YoYoYo Edition](https://delicious-fruit.com/ratings/game_details.php?id=18583) - Delicious Fruit
 ## 预览图
 ![](preview/0.png)
 ![](preview/1.png)
 ## 下载
 * 仓库发布件
-* [I Wanna Super Ability]() - MediaFire
+* [I Wanna Super Ability](https://mcube-12139.lanzoui.com/izEc9s0rscf) - MediaFire
 ## 鸣谢
 * [逍遥散人](https://space.bilibili.com/168598)  
   bilibili up主。给了我创作灵感。
