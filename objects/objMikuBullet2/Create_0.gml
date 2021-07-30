@@ -1,0 +1,15 @@
+cherries0 = [];
+count0 = 0;
+x0 = 48; 
+cherries1 = [];
+count1 = 0;
+x1 = 48; 
+cherries2 = [];
+count2 = 0;
+x2 = 48; 
+event_perform(ev_alarm, 0);
+alarm[1] = 26;
+alarm[2] = 52;
+alarm[3] = 75;
+alarm[4] = 89;
+alarm[5] = 102;

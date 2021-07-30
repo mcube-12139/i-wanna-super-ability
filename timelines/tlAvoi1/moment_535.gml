@@ -1,0 +1,1 @@
+instance_create_layer(541, 182, "Below_player1", objMikuBullet4);

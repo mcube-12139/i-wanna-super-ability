@@ -1,0 +1,1 @@
+audio_play_sound(sndBoss1Item, 0, false);

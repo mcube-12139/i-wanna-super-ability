@@ -1,0 +1,4 @@
+sprite_index = sprSpikeDown1;
+trg = 1;
+v = 2;
+time = 16;
